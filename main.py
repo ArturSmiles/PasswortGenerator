@@ -1,4 +1,4 @@
-import functions
+import functions.functions as functions
 import pyperclip
 from CTkMessagebox import CTkMessagebox
 from pathlib import Path
